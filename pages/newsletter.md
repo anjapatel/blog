@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Newsletter
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
-  order: 3
+  key: Newsletter
+  order: 4
 ---
 
-I am a person that writes stuff.
+Newsletter goes here

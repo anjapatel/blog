@@ -18,6 +18,12 @@ module.exports = function(eleventyConfig) {
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: true,
+    alias: 'post_excerpt',
+    excerpt_separator: "<!-- excerpt -->"
+  });
+
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
   });
