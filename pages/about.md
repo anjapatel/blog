@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: about
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: about
   order: 2
 ---
 
-I am a person that writes stuff.
+Anjali is a Black and South Asian computer whisperer and speculative fiction writer. She writes to explore queerness, agency, ancestral severance, convoluted mythologies of her own devising, and the stars. She lives with a grizzled dog who offered to teach her magic in exchange for free New York City rent. You can reach her at me@anjali.fyi
