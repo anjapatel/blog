@@ -120,6 +120,12 @@ code {
   margin-top: 5em;
 }
 
+@media (max-width: 900px) {
+  #content {
+    padding: 0 2em;
+  }
+}
+
 /* Header */
 .home {
   font-size: 48px;

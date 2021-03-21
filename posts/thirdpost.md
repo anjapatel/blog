@@ -1,5 +1,5 @@
 ---
-title: so many things have happened
+title: staycation, 100 word horror, & take that Calamity Ganon
 description: This is a post on My Blog about win-win survival strategies.
 date: 2021-03-29
 tags:
@@ -16,7 +16,7 @@ A lot has happened since the last time I wrote. Including but not limiting to:
 * Me signing a contract to be included in a forthcoming anthology!
 * Me accepting a new job I am very excited about!
 * Me aging! (I mean this is all the time, but as in, like...my birthday)
-* Me tearing down my website and building a new one (aaAAA) !!!!
+* Me tearing down my website and building a new one (aaAAA) (using [11ty](https://www.11ty.dev/) this time) !!!!
 * Me beating Calamity Ganon in Zelda!
 
 
@@ -30,13 +30,13 @@ Missing the snow, but enjoying the sunshine! We had some nice park days where I 
 
 I did not expect to have much news here until halfway through the year, if ever. But as stated above, I did make a couple of pro sales recently that I will blab about more once they go live. In the meantime, I am very excited and I have to say the editing process for both stories has been wonderful. In such a short time, I have learned so much. I am nervous (but excited!) for folks outside of my writing circles to finally read my fiction.
 
-Also, my hundred-word horror story is live in Home: an anthology of dark microfiction. I share a table of contents with my friend Wolf, a fellow Black spec fic author + musician whose work you absolutely need to follow. You should absolutely check out her Patreon and support: https://www.patreon.com/wolfweston/.
+Also, my hundred-word horror story is live in Home: an anthology of dark microfiction. You can get the kindle version for [free](https://www.amazon.com/Home-anthology-microfiction-Hundred-Horror-ebook/dp/B08V881428/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) or purchase the paperback for [$8.99](https://www.amazon.com/Home-R-Ward/dp/1838391509/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=). I share a table of contents with my friend Wolf, a fellow Black spec fic author + musician whose work you absolutely need to follow. You should absolutely check out her Patreon and support: https://www.patreon.com/wolfweston/.
 
 I gotta say...I’m having a lot of fun. This is the most productive I’ve ever been with my fiction writing, and I owe a lot of that to finding the right communities. Having someone you can call or DM to say “Hey, so this idea...should I??? What if????? Is it garbage???” makes a world of a difference.
 
 ## Reading
 
-So. You might have seen in my last post that I had reading goals, and, uh crossed them out. Well, that’s because I recently joined Strange Horizons as a First Reader! Which means, in addition to keeping up with critiques and co-running a short story reading group, I just won’t have a lot of time for novels. Some people can juggle all of it; I cannot.
+So. You might have seen in my last post that I had reading goals, and, uh crossed them out. Well, that’s because I recently joined [Strange Horizons](http://strangehorizons.com/) as a First Reader! Which means, in addition to keeping up with critiques and co-running a short story reading group, I just won’t have a lot of time for novels. Some people can juggle all of it; I cannot.
 
 But here’s some of what I did read recently:
 
@@ -58,3 +58,4 @@ I’m not saying that’s the question Le Guin asked while writing this (maybe i
 >"And I liked how when I shaped his name in my mouth, the first syllable leaped to the second like an ill-begotten conclusion."
 
 Until next time
+<3
