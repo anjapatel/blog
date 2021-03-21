@@ -118,6 +118,7 @@ code {
   max-width: 800px;
   margin: auto;
   margin-top: 5em;
+  margin-bottom: 5em;
 }
 
 @media (max-width: 900px) {

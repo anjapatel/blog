@@ -1,6 +1,6 @@
 ---
 title: a fresh start and oh look i'm a social media vegan now
-description: This is a post on My Blog about agile frameworks.
+description: Hey it's my first ever post
 date: 2020-12-02
 tags:
   - first post

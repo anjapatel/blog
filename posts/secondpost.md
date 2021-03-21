@@ -1,6 +1,6 @@
 ---
 title: this is what's happening (feat goals and romeo's birthday)
-description: This is a post on My Blog about leveraging agile frameworks.
+description: I sold a story and Romeo had a birthday!
 date: 2021-01-18
 layout: layouts/post.njk
 ---
