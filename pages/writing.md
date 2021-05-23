@@ -11,9 +11,13 @@ Forthcoming
 
 * "Ember" — Flash Fiction Online
 
+* "Monologue of a Wishing Well" — Translunar Traveler's Lounge
+
 Published
 
-* "Masala" — [Hundred Word Horror: Home](https://www.amazon.com/Home-anthology-microfiction-Hundred-Horror-ebook/dp/B08V881428/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (February 2021) 
+* "Our Bones Were The Mortar - [khōréō](https://www.khoreomag.com/product/volume-1-issue-2/) (May 2021, fiction)
+
+* "Masala" — [Hundred Word Horror: Home](https://www.amazon.com/Home-anthology-microfiction-Hundred-Horror-ebook/dp/B08V881428/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (February 2021, fiction)
 
 * "[What Does It Mean When You Dream About The End Of The World](https://www.buzzfeed.com/anjalipatel/what-does-it-mean-when-you-dream-about-the-end-of-the-world)" — BuzzFeed (June 2017, essay)
 
