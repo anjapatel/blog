@@ -29,5 +29,5 @@ I don’t know if this story does what I’ve felt these past few years any just
 
 This is my answer.
 
-“Our Bones Were The Mortar” is available in the [second issue of khōréō](https://www.khoreomag.com/product/volume-1-issue-2/), an online speculative fiction magazine centering immigrant and diaspora authors.
+_“Our Bones Were The Mortar” is available in the [second issue of khōréō](https://www.khoreomag.com/product/volume-1-issue-2/), an online speculative fiction magazine centering immigrant and diaspora authors._
 
