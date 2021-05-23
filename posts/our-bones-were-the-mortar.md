@@ -11,7 +11,7 @@ The first thing I do after I wake up is walk Romeo, and then I come home and wri
 
 <!-- excerpt -->
 
-I had a story come out last week in [khōréō](https://www.khoreomag.com/) magazine. Everyone who gave me feedback on this story — from my most trusted crit partners to its editor, the wonderful and empathetic [Ola Hill](https://twitter.com/_aleksandrahill) — handled it with such attentiveness and care. And despite the support I had in writing it, walking through this story first thing in the morning always, without fail, ruined my day.
+I had a [story come out](https://twitter.com/anjapatel/status/1396582852792307712?s=20) last week in [khōréō](https://www.khoreomag.com/) magazine. Everyone who gave me feedback on this story — from my most trusted crit partners to its editor, the wonderful and empathetic [Ola Hill](https://twitter.com/_aleksandrahill) — handled it with such attentiveness and care. And despite the support I had in writing it, walking through this story first thing in the morning always, without fail, ruined my day.
 
 _**Spoilers from this point onward**_
 
