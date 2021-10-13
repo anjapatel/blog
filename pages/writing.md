@@ -9,11 +9,11 @@ eleventyNavigation:
 
 Forthcoming
 
-- "Monologue of a Wishing Well" — Translunar Traveler's Lounge
-
 - "Bright Lights Flying Beneath The Ocean" — Escape Pod
 
 Published
+
+- "Monologue of a Wishing Well" — [Translunar Traveler's Lounge](https://translunartravelerslounge.com/2021/08/15/monologue-of-a-wishing-well-by-anjali-patel/) (August 2021, fiction)
 
 - "Ember" — [Flash Fiction Online](https://www.flashfictiononline.com/article/ember/) (July 2021, fiction)
 
