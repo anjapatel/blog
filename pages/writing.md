@@ -9,9 +9,11 @@ eleventyNavigation:
 
 Forthcoming
 
-- "Bright Lights Flying Beneath The Ocean" — Escape Pod
+"Meteorites" - Bridge to Elsewhere Anthology. Support the Kickstarter [here](https://www.kickstarter.com/projects/1330509990/bridge-to-elsewhere-anthology?ref=project_link).
 
 Published
+
+- "Bright Lights Flying Beneath The Ocean" — [Escape Pod](https://escapepod.org/2021/10/14/escape-pod-806-bright-lights-flying-beneath-the-ocean/) (October 2021, fiction)
 
 - "Monologue of a Wishing Well" — [Translunar Traveler's Lounge](https://translunartravelerslounge.com/2021/08/15/monologue-of-a-wishing-well-by-anjali-patel/) (August 2021, fiction)
 
