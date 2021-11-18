@@ -9,7 +9,7 @@ eleventyNavigation:
 
 Forthcoming
 
-"Meteorites" - Bridge to Elsewhere Anthology. Support the Kickstarter [here](https://www.kickstarter.com/projects/1330509990/bridge-to-elsewhere-anthology?ref=project_link).
+- "Meteorites" - Bridge to Elsewhere Anthology. Support the Kickstarter [here](https://www.kickstarter.com/projects/1330509990/bridge-to-elsewhere-anthology?ref=project_link).
 
 Published
 
