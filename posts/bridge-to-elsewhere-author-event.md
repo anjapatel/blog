@@ -1,6 +1,6 @@
 ---
 title: i have an author event! for the bridge to elsewhere anthology
-description: I have a new story out and it made me very sad to write it
+description: i will be reading a story for the upcoming Bridge to Elsewhere anthology by Outland Entertainment! please support the Kickstarter so it can exist it will be so shiny and cool
 date: 2021-11-17
 tags:
   - author event
