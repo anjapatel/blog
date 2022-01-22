@@ -7,9 +7,13 @@ eleventyNavigation:
   order: 3
 ---
 
-Forthcoming
+If you would like to nominate any of my recent fiction for awards, please check out my [2021 Awards Eligibility Post](/posts/2021-awards-eligibility).
+
+Forthcoming work
 
 - "Meteorites" - Bridge to Elsewhere Anthology. Support the Kickstarter [here](https://www.kickstarter.com/projects/1330509990/bridge-to-elsewhere-anthology?ref=project_link).
+
+- "Spirituals" - Uncanny Magazine (poem)
 
 Published
 
@@ -19,7 +23,7 @@ Published
 
 - "Ember" — [Flash Fiction Online](https://www.flashfictiononline.com/article/ember/) (July 2021, fiction)
 
-- "Our Bones Were The Mortar - [khōréō](https://www.khoreomag.com/product/volume-1-issue-2/) (May 2021, fiction)
+- "Our Bones Were The Mortar - [khōréō](https://www.khoreomag.com/fiction/our-bones-were-the-mortar/) (May 2021, fiction)
 
 - "Masala" — [Hundred Word Horror: Home](https://www.amazon.com/Home-anthology-microfiction-Hundred-Horror-ebook/dp/B08V881428/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (February 2021, fiction)
 

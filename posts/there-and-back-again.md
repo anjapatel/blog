@@ -1,7 +1,7 @@
 ---
 title: there and back again
 description: i left new york and returned. also, had stories published in Escape Pod, Flash Fiction Online, Translunar Traveler's Lounge, and the Bridge to Elsewhere anthology.
-date: 2021-11-17
+date: 2021-12-22
 tags:
   - new story published
 layout: layouts/post.njk
