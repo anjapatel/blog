@@ -1,6 +1,6 @@
 ---
 title: 2021 Awards Eligibility
-description: I have a new story out and it made me very sad to write it
+description: Here is my list of stories eligible for awards such as the Hugos, Nebulas, Astounding Awards, etc.
 date: 2022-01-21
 tags:
   - awards eligibility post
