@@ -17,6 +17,10 @@ Forthcoming work
 
 Published
 
+- "Meteorites" - [Bridge to Elsewhere Anthology](https://outlandentertainment.com/work/bridge-to-elsewhere/) (July 2022, fiction)
+
+- "Spirituals" - Uncanny Magazine (June 2022, poem)
+
 - "Bright Lights Flying Beneath The Ocean" — [Escape Pod](https://escapepod.org/2021/10/14/escape-pod-806-bright-lights-flying-beneath-the-ocean/) (October 2021, fiction)
 
 - "Monologue of a Wishing Well" — [Translunar Traveler's Lounge](https://translunartravelerslounge.com/2021/08/15/monologue-of-a-wishing-well-by-anjali-patel/) (August 2021, fiction)
