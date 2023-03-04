@@ -7,19 +7,15 @@ eleventyNavigation:
   order: 3
 ---
 
-If you would like to nominate any of my recent fiction for awards, please check out my [2021 Awards Eligibility Post](/posts/2021-awards-eligibility).
-
 Forthcoming work
 
-- "Meteorites" - Bridge to Elsewhere Anthology. Support the Kickstarter [here](https://www.kickstarter.com/projects/1330509990/bridge-to-elsewhere-anthology?ref=project_link).
-
-- "Spirituals" - Uncanny Magazine (poem)
+- "Legacy" - Fantasy Magazine, poem.
 
 Published
 
 - "Meteorites" - [Bridge to Elsewhere Anthology](https://outlandentertainment.com/work/bridge-to-elsewhere/) (July 2022, fiction)
 
-- "Spirituals" - Uncanny Magazine (June 2022, poem)
+- "Spirituals" - [Uncanny Magazine](https://www.uncannymagazine.com/article/spirituals/) (June 2022, poem)
 
 - "Bright Lights Flying Beneath The Ocean" — [Escape Pod](https://escapepod.org/2021/10/14/escape-pod-806-bright-lights-flying-beneath-the-ocean/) (October 2021, fiction)
 
