@@ -7,11 +7,9 @@ eleventyNavigation:
   order: 3
 ---
 
-Forthcoming work
-
-- "Legacy" - Fantasy Magazine, poem.
-
 Published
+
+- "Legacy" - [Fantasy Magazine](https://www.fantasy-magazine.com/fm/poetry/legacy/) (May 2023, poem)
 
 - "Meteorites" - [Bridge to Elsewhere Anthology](https://outlandentertainment.com/work/bridge-to-elsewhere/) (July 2022, fiction)
 
