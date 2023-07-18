@@ -1,0 +1,10 @@
+---
+layout: layouts/post.njk
+title: contact
+templateClass: tmpl-post
+eleventyNavigation:
+  key: contact
+  order: 4
+---
+
+Contact form to come. In the meantime, you can email me at me@anjali.fyi.
