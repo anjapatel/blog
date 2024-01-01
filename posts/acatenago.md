@@ -5,12 +5,13 @@ date: 2024-01-01
 layout: layouts/post.njk
 ---
 
-Welcome to the new year! Here is a highlight of my 2023.
+Welcome to the new year! Toward the end of 2023, I hiked a volcano. It was immensely challenging and not something I would recommend for inexperienced hikers (me). Here is the play by play...
+
 <!-- excerpt -->
 
 ## November 10, 2023 - Morning
 
-The journey up Acatenago begins on an unshaded dirt road. It cuts through jade and tawny farmland and even though it’s steep, it’s fine, because eventually it will level out and I can catch my breath. When it levels out, that will be the reward.
+The journey up Acatenago begins on an unshaded dirt road. It cuts through jade and tawny farmland and even though it’s steep, it’s fine, because eventually it will level out and I will catch my breath. When it levels out, that will be the reward.
 
 
 It never levels out.
