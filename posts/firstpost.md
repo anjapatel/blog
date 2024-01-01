@@ -68,7 +68,7 @@ Rubs palms together. Gorgeous prose and grim, fantastical worlds hit a sweet spo
 
 A collection of poems inspired by the Chicago race riots of 1919. Longreads says, “Every poem leaves a bruise," and I think that is a perfect summation.
 
-The collection heavily references “The Negro In Chicago: A Study On Race Relations And A Race Riot,” a sociological study composed by a council of six black men and six white men after the riots. You can read all 800+ pages (!!!) (here)[http://moses.law.umn.edu/darrow/documents/The_Negro_in_Chicago_1922.pdf]. One of the poems — “(Countless Schemes)[https://therumpus.net/2018/06/rumpus-original-poetry-three-poems-by-eve-l-ewing/],” a response to proposed solutions to the “Negro problem” referenced in the report — still hurts to think about.
+The collection heavily references “The Negro In Chicago: A Study On Race Relations And A Race Riot,” a sociological study composed by a council of six black men and six white men after the riots. You can read all 800+ pages (!!!) [here](http://moses.law.umn.edu/darrow/documents/The_Negro_in_Chicago_1922.pdf). One of the poems — “[Countless Schemes](https://therumpus.net/2018/06/rumpus-original-poetry-three-poems-by-eve-l-ewing/),” a response to proposed solutions to the “Negro problem” referenced in the report — still hurts to think about.
 
 ## And a snippet from my writing compost bin:
 

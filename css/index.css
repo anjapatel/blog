@@ -181,6 +181,7 @@ code {
   word-spacing: -0.5px;
   color: var(--gray);
   font-size: 14px;
+  padding-right: 0.5em;
 }
 .postlist-link {
   padding-right: .5em;
