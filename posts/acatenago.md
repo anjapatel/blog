@@ -51,7 +51,7 @@ Others begin to poke their heads out, asking if anyone else heard the eruption a
 
 At 4 AM, we begin our ascent. A few steps in, I know I cannot make it to the top. My legs can no longer lift me. My lungs cannot fuel my body with this pitiful, thin air. I cannot. I cannot. I cannot. Yet somehow, I do it anyway.
 
-## November 11, 2023 - Before dawn
+## Before dawn
 
 The ground is wet and silty; it shifts sand-like while suctioning boots like mud. To the right, the black ash ground disappears into the void of night. Above that void, a lake of fog stirs. Above that fog, there is a silhouette of another volcano framed by a handful of stars and the thin, cracked smile of a crescent moon perfectly centered above it.
 
@@ -73,7 +73,7 @@ It is morning.
 
 Fuego belches thunderclouds of black smoke, now front and center in our vision from our perch on Acatenago’s summit. The sun to the left continues to rise, revealing a soft, blue-green world of gently sloping peaks and valleys. Everyone’s face is wet, a mix of precipitation and maybe sweat and likely snot and also probably tears.
 
-I am in awe of the great force of nature in front of me. But maybe more so, I am in awe of the resilience of my body and am grateful for it in a new way. Already I grow curious about where else I can go, what else I can see that I previously thought beyond my limits.
+I am in awe of the great force of nature in front of me. But maybe more so, I have a newfound appreciation for resilience. Already I grow curious about where else I can go, what else I can see that I previously thought beyond my limits.
 
 The road has finally leveled out. This is the reward.
 
