@@ -76,3 +76,5 @@ Fuego belches thunderclouds of black smoke, now front and center in our vision f
 I am in awe of the great force of nature in front of me. But maybe more so, I am in awe of the resilience of my body and am grateful for it in a new way. Already I grow curious about where else I can go, what else I can see that I previously thought beyond my limits.
 
 The road has finally leveled out. This is the reward.
+
+![volcano fuego erupting](https://github.com/anjapatel/blog/blob/1e158f5970ae1c514a10a59188a3641146516a75/img/acatenago.jpeg)
