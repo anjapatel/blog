@@ -77,4 +77,4 @@ I am in awe of the great force of nature in front of me. But maybe more so, I am
 
 The road has finally leveled out. This is the reward.
 
-![volcano fuego erupting](https://github.com/anjapatel/blog/blob/1e158f5970ae1c514a10a59188a3641146516a75/img/acatenago.jpeg)
+![volcano fuego erupting](https://github.com/anjapatel/blog/blob/master/img/acatenago.jpeg?raw=true)
