@@ -13,16 +13,15 @@ Welcome to the new year! Toward the end of 2023, I hiked a volcano. It was immen
 
 The journey up Acatenago begins on an unshaded dirt road. It cuts through jade and tawny farmland and even though it’s steep, it’s fine, because eventually it will level out and I will catch my breath. When it levels out, that will be the reward.
 
-
 It never levels out.
 
-We stop. Someone in my hiking group mentions it’s only been twenty minutes. Someone else mentions volcanoes are steeper than mountains. I think: That makes sense. I also think: Well shit, I should have done my research before I started to hike a volcano.
+We stop. Someone in my hiking group mentions it’s only been twenty minutes. Someone else mentions volcanoes are steeper than mountains. I think: That makes sense. I also think: I should have done my research before I started to hike a volcano.
 
-I distract myself with thoughts of food. When I can, I cram snacks from my sweat-soaked backpack into my mouth: peanuts that pierce my tongue with salt and spice, a granola bar I chew on longer than I should, mashing it against the roof of my mouth to make it last. Water is the clearest it has ever been. From head to toe, one sip washes me clean.
-
-When 4x4s carrying the bulk of our supplies can go no farther, I belt on a pack full of jackets, thermals, food, water, gloves, scarves. There are porters we can pay to carry our bags to the summit for us, but I take a few steps, gauging if I can do it on my own. I decide it’s worth it to prove it to myself that I can. It only takes fifteen minutes for me to regret this.
+We continue upward in twenty minute increments. When 4x4s carrying the bulk of our supplies can go no farther, I belt on a pack full of jackets, thermals, food, water, gloves, scarves. There are porters we can pay to carry our bags to the summit for us, but I take a few steps, gauging if I can do it on my own. I decide it’s worth it to prove it to myself that I can. It only takes fifteen minutes for me to regret this.
 
 Farmland transitions to wet forest. Clouds descend to eye level and my breath puffs in front of me as my sweat-slicked skin steams under my thin trail shirt. If I thought the way was hard before, each step weighed down by everything I need to shield my fragile body against the forces of nature feels impossible. Sometimes, I can only manage five steps before I have to stop again to catch my breath.
+
+The hours go by. The air thins. Our group is so spread out now that I do not see or hear anyone else. I savor this misty, chilly solitude and am terrified of it.
 
 Eventually, with little fanfare, I reach basecamp.
 
