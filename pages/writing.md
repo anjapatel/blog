@@ -7,7 +7,12 @@ eleventyNavigation:
   order: 3
 ---
 
+Forthcoming
+- "Our Bones Were The Mortar" reprint - [Flametree Press](https://www.flametreepublishing.com/african-ghost-short-stories-isbn-9781804177976.html) (Available April 16, 2024)
+
 Published
+
+- "Your Sword, Your Trumpet" - [The Deadlands](https://thedeadlands.com/issue-33/) (March 2024, short story)
 
 - "Legacy" - [Fantasy Magazine](https://www.fantasy-magazine.com/fm/poetry/legacy/) (May 2023, poem)
 
@@ -21,9 +26,7 @@ Published
 
 - "Ember" — [Flash Fiction Online](https://www.flashfictiononline.com/article/ember/) (July 2021, fiction)
 
-- "Our Bones Were The Mortar - [khōréō](https://www.khoreomag.com/fiction/our-bones-were-the-mortar/) (May 2021, fiction)
-
-- "Masala" — [Hundred Word Horror: Home](https://www.amazon.com/Home-anthology-microfiction-Hundred-Horror-ebook/dp/B08V881428/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (February 2021, fiction)
+- "Our Bones Were The Mortar" - [khōréō](https://www.khoreomag.com/fiction/our-bones-were-the-mortar/) (May 2021, fiction)
 
 - "[What Does It Mean When You Dream About The End Of The World](https://www.buzzfeed.com/anjalipatel/what-does-it-mean-when-you-dream-about-the-end-of-the-world)" — BuzzFeed (June 2017, essay)
 
