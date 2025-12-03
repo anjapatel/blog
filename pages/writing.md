@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 
 Forthcoming
-- "Our Bones Were The Mortar" reprint - [Flametree Press](https://www.flametreepublishing.com/african-ghost-short-stories-isbn-9781804177976.html) (Available April 16, 2024)
+- "Our Bones Were The Mortar" will be read and broadcasted at the BBC Symphony Orchestra's ["Ghost Stories and Music for Christmas"](https://www.barbican.org.uk/whats-on/2025/event/bbc-symphony-orchestra-ghost-stories-at-christmas) concert in London!
 
 Published
 
@@ -27,6 +27,8 @@ Published
 - "Ember" — [Flash Fiction Online](https://www.flashfictiononline.com/article/ember/) (July 2021, fiction)
 
 - "Our Bones Were The Mortar" - [khōréō](https://www.khoreomag.com/fiction/our-bones-were-the-mortar/) (May 2021, fiction)
+Reprinted in [Flametree Press](https://www.flametreepublishing.com/african-ghost-short-stories-isbn-9781804177976.html) (April 2024)
+Translated to Spanish in [Las Escritoras de Urras](https://escritorasdeurras.blogspot.com/2022/03/capitulo-51-nuestros-huesos-fueron-el.html)
 
 - "[What Does It Mean When You Dream About The End Of The World](https://www.buzzfeed.com/anjalipatel/what-does-it-mean-when-you-dream-about-the-end-of-the-world)" — BuzzFeed (June 2017, essay)
 

@@ -4,7 +4,7 @@
   "language": "en",
   "description": "Speculative fiction writer and software engineer",
   "feed": {
-    "subtitle": "writer & software engineer",
+    "subtitle": "speculative fiction writer",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "anjali.fyi"
