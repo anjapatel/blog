@@ -33,6 +33,7 @@
     "markdown-it-anchor": "^5.2.5"
   },
   "dependencies": {
-    "gray-matter": "^4.0.2"
+    "gray-matter": "^4.0.2",
+    "markdown-it-footnote": "^4.0.0"
   }
 }
